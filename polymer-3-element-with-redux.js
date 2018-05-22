@@ -1,4 +1,5 @@
 import {html, PolymerElement} from '@polymer/polymer/polymer-element.js';
+import {createStore} from 'redux';
 
 /**
  * `polymer-3-element-with-redux`
